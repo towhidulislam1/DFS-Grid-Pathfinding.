@@ -12,4 +12,4 @@ This project generates an N×N grid (N between 4 and 7) with obstacles, selects 
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/DFS-Grid-Pathfinding.git
+   git clone [https://github.com/your-username/DFS-Grid-Pathfinding.git](https://github.com/towhidulislam1/DFS-Grid-Pathfinding..git)
